@@ -4,4 +4,4 @@ Tengo 21 años
 Prueba usando git reset --head.
 
 Prueba del HEAD usando pull del repositorio remoto.
-2.0
+3.0
