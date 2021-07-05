@@ -2,3 +2,5 @@ Hola, esta es una historia al azar de prueba
 Tengo 21 años
 
 Prueba usando git reset --head.
+
+Prueba del HEAD usando pull del repositorio remoto.
