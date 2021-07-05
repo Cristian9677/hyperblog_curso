@@ -5,3 +5,4 @@ Prueba usando git reset --head.
 
 Prueba del HEAD usando pull del repositorio remoto.
 2.0
+Prueba repositorio remoto para head de blogpost en el local. 1.0
