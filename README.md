@@ -7,3 +7,5 @@ repositorio de prueba para el curso de git y github de platzi
 * Aprendo sobre los repositorios remotos
 * Aprendo sobre proyectos colaborativos usando github
 * Creado por el increible platzi team.
+* Incluye ejemplos en Windows, Linux y mac.
+* Disponible para todas las edades.
