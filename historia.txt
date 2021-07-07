@@ -7,4 +7,6 @@ Prueba del HEAD usando pull del repositorio remoto.
 2.0
 Master 1
 
+Master 2
+
 Prueba repositorio remoto para head de blogpost en el local. 1.0
