@@ -6,3 +6,4 @@ repositorio de prueba para el curso de git y github de platzi
 * Aprendo nuevo comandos
 * Aprendo sobre los repositorios remotos
 * Aprendo sobre proyectos colaborativos usando github
+* Creado por el increible platzi team.
